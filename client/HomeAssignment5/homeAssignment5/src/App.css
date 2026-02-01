@@ -1,0 +1,205 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #fdd835 0%, #fb8c00 100%);
+}
+
+h3 {
+  color: #1a1a1a;
+  font-size: 25px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"] {
+  padding: 0.7rem;
+  border: 2px solid #1976d2;
+  border-radius: 8px;
+  font-size: 15px;
+  transition: all 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="number"]:focus {
+  outline: none;
+  border-color: #e53935;
+  box-shadow: 0 0 0 3px rgba(229, 57, 53, 0.1);
+}
+
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+.loginContainer {
+  background-color: #f5f5f5;
+  padding: 20px;
+  max-width: 400px;
+  margin: 10px auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.loginContainer h3 {
+  color: #1a1a1a;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.loginContainer input {
+  width: 90%;
+  margin-bottom: 1.2rem;
+}
+
+.loginContainer button {
+  width: 90%;
+  background: linear-gradient(135deg, #1976d2 0%, #1565c0 100%);
+  color: white;
+}
+
+.loginContainer button:hover {
+  background: linear-gradient(135deg, #1565c0 0%, #0d47a1 100%);
+}
+
+.logoutBtn {
+  background: linear-gradient(135deg, #e53935 0%, #d32f2f 100%);
+  color: white;
+  padding: 13px;
+  margin-bottom: 15px;
+}
+
+.logoutBtn:hover {
+  background: linear-gradient(135deg, #d32f2f 0%, #b71c1c 100%);
+}
+
+.addSetContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.addSetContainer > h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.addSetContainer > div {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 25px;
+  background: linear-gradient(135deg, #fdd835 0%, #fbc02d 100%);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
+  width: 100%;
+  max-width: 600px;
+}
+
+.addSetContainer > div input {
+  padding: 7px;
+  border: 2px solid #1976d2;
+  border-radius: 8px;
+  flex: 1;
+  min-width: 120px;
+  max-width: 200px;
+}
+
+.addSetContainer > div button {
+  background: linear-gradient(135deg, #1976d2 0%, #1565c0 100%);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+  white-space: nowrap;
+}
+
+.addSetContainer > div button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(135deg, #1565c0 0%, #0d47a1 100%);
+}
+
+.legoList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 100%;
+}
+
+.legoCard {
+  background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
+  padding: 20px;
+  border-radius: 10px;
+  border-left: 5px solid #e53935;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: all 0.3s ease;
+  min-width: 200px;
+  max-width: 250px;
+  width: 100%;
+}
+
+.legoCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  border-left-color: #fb8c00;
+}
+
+.deleteBtn {
+  background: linear-gradient(135deg, #e53935 0%, #d32f2f 100%);
+  color: rgb(255, 255, 255) !important;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.deleteBtn:hover {
+  background: linear-gradient(135deg, #d32f2f 0%, #b71c1c 100%);
+  transform: translateY(-2px);
+}

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|c:\\users\\liel6\\desktop\\matala5\\service\\homeassignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|c:\\users\\liel6\\desktop\\matala5\\service\\homeassignment5\\controllers\\legocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|solutionrelative:controllers\\legocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|c:\\users\\liel6\\desktop\\matala5\\service\\homeassignment5\\repositories\\ilegorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|solutionrelative:repositories\\ilegorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|c:\\users\\liel6\\desktop\\matala5\\service\\homeassignment5\\repositories\\mocklegorepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|solutionrelative:repositories\\mocklegorepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|c:\\users\\liel6\\desktop\\matala5\\service\\homeassignment5\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|c:\\users\\liel6\\desktop\\matala5\\service\\homeassignment5\\bl\\legoset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21617A4-C7E5-493F-967A-177FFF76D941}|HomeAssignment5.csproj|solutionrelative:bl\\legoset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LegoController.cs",
+              "DocumentMoniker": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Controllers\\LegoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LegoController.cs",
+              "ToolTip": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Controllers\\LegoController.cs",
+              "RelativeToolTip": "Controllers\\LegoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:14:02.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:48:32.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:30:35.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockLegoRepository .cs",
+              "DocumentMoniker": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Repositories\\MockLegoRepository .cs",
+              "RelativeDocumentMoniker": "Repositories\\MockLegoRepository .cs",
+              "ToolTip": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Repositories\\MockLegoRepository .cs",
+              "RelativeToolTip": "Repositories\\MockLegoRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:47:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILegoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Repositories\\ILegoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ILegoRepository.cs",
+              "ToolTip": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\Repositories\\ILegoRepository.cs",
+              "RelativeToolTip": "Repositories\\ILegoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:45:36.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LegoSet.cs",
+              "DocumentMoniker": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\BL\\LegoSet.cs",
+              "RelativeDocumentMoniker": "BL\\LegoSet.cs",
+              "ToolTip": "C:\\Users\\liel6\\Desktop\\matala5\\service\\HomeAssignment5\\BL\\LegoSet.cs",
+              "RelativeToolTip": "BL\\LegoSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:31:33.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
